@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Orxngutan/Games/main/Prisonlife.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/E50BfhZp"))()
